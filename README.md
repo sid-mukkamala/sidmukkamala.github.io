@@ -1,1 +1,0 @@
-# sidmukkamala.github.io

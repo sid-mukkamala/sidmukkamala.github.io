@@ -1,0 +1,6 @@
+title: SidMukkamala Blog
+description: A simple blog
+author: Sid Mukkamala
+baseurl: "" # Do not change for user/organization site
+url: "https://sidmukkamala.github.io"
+theme: minima
